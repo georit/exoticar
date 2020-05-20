@@ -243,8 +243,8 @@ h2::after {
 
 .copy {
     color: #585858;
-    margin-top: 2rem;
-    font-size: .75rem;
+    margin-top: 1rem;
+    font-size: .6rem !important;
 }
 
 .social a {
