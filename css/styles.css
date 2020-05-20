@@ -244,6 +244,7 @@ h2::after {
 .copy {
     color: #585858;
     margin-top: 2rem;
+    font-size: .75rem;
 }
 
 .social a {
